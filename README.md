@@ -1,6 +1,5 @@
-Hi, I’m @pasokon.
-I’m interested in unidentified aerial phenomenon.
-I’m currently learning Swift iOS.
+I am @pasokon.
+
 
 <!---
 pasokon/pasokon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
